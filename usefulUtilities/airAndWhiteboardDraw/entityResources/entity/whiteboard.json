@@ -51,7 +51,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553876735507,
     "color": {
         "red": 255,
@@ -115,7 +115,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 255,
@@ -179,7 +179,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 0,
@@ -243,7 +243,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 23,
@@ -307,7 +307,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 255,
@@ -371,7 +371,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 0,
@@ -435,7 +435,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/drawSphereSpawnerClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/drawSphereSpawnerClient.js",
     "scriptTimestamp": 1553806847340,
     "color": {
         "red": 0,
@@ -498,7 +498,7 @@
     "angularDamping": 0,
     "collisionMask": 7,
     "collidesWith": "static,dynamic,kinematic,",
-    "script": "../entityClientScripts/whiteboardReset.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/whiteboardReset.js",
     "scriptTimestamp": 1554489729490,
     "text": "RESET",
     "leftMargin": 0.05000000074505806,
@@ -615,7 +615,7 @@
     },
     "damping": 0,
     "angularDamping": 0,
-    "script": "../entityClientScripts/whiteboardZoneClient.js",
+    "script": "https://raw.githubusercontent.com/SilverfishVR/hifi-content/master/usefulUtilities/airAndWhiteboardDraw/entityResources/entityClientScripts/whiteboardZoneClient.js",
     "scriptTimestamp": 1554501630673,
     "shapeType": "box",
     "keyLight": {
